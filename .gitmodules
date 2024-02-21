@@ -10,3 +10,21 @@
 [submodule "CPP-Module-03"]
 	path = CPP-Module-03
 	url = git@github.com:Juan-aga/CPP-Module-03.git
+[submodule "CPP-Module-04"]
+	path = CPP-Module-04
+	url = https://github.com/Juan-aga/CPP-Module-04.git
+[submodule "CPP-Module-05"]
+	path = CPP-Module-05
+	url = https://github.com/Juan-aga/CPP-Module-05.git
+[submodule "CPP-Module-06"]
+	path = CPP-Module-06
+	url = https://github.com/Juan-aga/CPP-Module-06.git
+[submodule "CPP-Module-07"]
+	path = CPP-Module-07
+	url = https://github.com/Juan-aga/CPP-Module-07.git
+[submodule "CPP-Module-08"]
+	path = CPP-Module-08
+	url = https://github.com/Juan-aga/CPP-Module-08.git
+[submodule "CPP-Module-09"]
+	path = CPP-Module-09
+	url = https://github.com/Juan-aga/CPP-Module-09.git
